@@ -1,16 +1,15 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2E75B6&height=150&section=header&text=Mohammad%20Murtuza&fontSize=40&fontColor=ffffff)
 
-<!--
-**MohammadMurtuza2001/MohammadMurtuza2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=440&lines=Computer+Science+Graduate;Full-Stack+Developer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,sqlite,js,html,css,fastapi,react)
+
+---
+
+### 📫 Contact
+
+[Email](mailto:murtuza.moin@gmail.com)
