@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=607D8B&height=150&section=header&text=Mohammad%20Murtuza&fontSize=40&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=607D8B&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+---+Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=607D8B&center=true&vCenter=true&width=800&lines=Computer+Science+Graduate+---+Full-Stack+Developer)
 
 </div>
 
