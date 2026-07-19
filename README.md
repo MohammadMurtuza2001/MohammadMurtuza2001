@@ -1,10 +1,16 @@
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=607D8B&height=150&section=header&text=Mohammad%20Murtuza&fontSize=40&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=607D8B&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate%2C+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=607D8B&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate+---+Full-Stack+Developer)
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -37,8 +43,16 @@
 ![Canva](https://custom-icon-badges.demolab.com/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CAPCUT-000000?style=for-the-badge)
 
+</div>
+
 ---
 
 ### 📫 Contact
 
-[Email](mailto:murtuza.moin@gmail.com)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murtuza.moin@gmail.com)
+![Discord](https://img.shields.io/badge/woodpeckerr2001-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![X](https://img.shields.io/badge/woodpeckerr2001-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/woodpeckerr2001)
+
+</div>
